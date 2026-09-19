@@ -13,6 +13,7 @@
 
 ### Economics
 
+
 Scarcity -> Choice -> Tradoffs (Costs)
 
 [[Vocabulary/Scarcity\|Scarcity]]

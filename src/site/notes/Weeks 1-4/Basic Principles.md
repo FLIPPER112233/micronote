@@ -27,7 +27,7 @@ If a team member spent 6 minutes building, what could they have done instead?
 [[Vocabulary/Marginal Benefit\|Marginal Benefit]] = Benefit that arises from a small incremental change in activity 
 [[Vocabulary/Marginal Cost\|Marginal Cost]] = cost that arises from a small incremental change in activity 
 
-BIG PICTURE
+BIG PICTURES
 1. Scarcity - Resources are limited
 2. Opportunity Cost - Choices mean giving up the next best alternative 
 3. Marginal Thinking - Compare the additional benefit with the additional cost

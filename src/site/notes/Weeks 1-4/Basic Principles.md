@@ -3,7 +3,7 @@
 ---
 
 [[Homepage\|Homepage]]
-## Basic Principles
+
 
 > [!important]- Key Points
 > - Apply basic economic principles of scarcity, opportunity cost, and marginal analysis to a given scenario.
@@ -11,8 +11,8 @@
 > - Explain the difference between positive and normative economics and classify statements as positive or normative.
 > - Define ceteris paribus and explain the importance of this assumption in economic modeling.
 
-### Economics
 
+#### Economics
 
 Scarcity -> Choice -> Tradoffs (Costs)
 

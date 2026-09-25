@@ -3,7 +3,8 @@
 ---
 
 ## [[Homepage\|Homepage]]
-#### [[Weeks 1-4/Basic Principles\|Basic Principles]]
+
+<font color="#9bbb59">[[Weeks 1-4/Basic Principles\|Basic Principles]]</font>
 [[Vocabulary/Opportunity Cost\|Opportunity Cost]]
 [[Vocabulary/Rational People\|Rational People]]
 [[Vocabulary/Marginal Cost\|Marginal Cost]]
@@ -23,3 +24,11 @@
 [[Vocabulary/Externality\|Externality]]
 [[Vocabulary/Business Cycle\|Business Cycle]]
 [[Vocabulary/Productivity\|Productivity]]
+[[Vocabulary/Circular-Flow Diagram\|Circular-Flow Diagram]]
+[[Vocabulary/Microeconomics\|Microeconomics]]
+[[Vocabulary/Macroeconomics\|Macroeconomics]]
+[[Vocabulary/Circular-Flow Diagram\|Circular-Flow Diagram]]
+[[Vocabulary/Macroeconomics\|Macroeconomics]]
+[[Vocabulary/Microeconomics\|Microeconomics]]
+[[Vocabulary/production possibilities frontier\|production possibilities frontier]]
+

@@ -4,7 +4,7 @@
 
 Exam 2 mainly focuses on Four Key 
 ## 1. Elasticity
-- four elasticities: Price Elasticity of Demand, Price Elasticity of Supply, Income Elasticity of Demand, and Cross-Price Elasticity
+- Four elasticities: <font color="#9bbb59">Price Elasticity of Demand, Price Elasticity of Supply, Income Elasticity of Demand, and Cross-Price Elasticity</font>
 - Calculation: Know the Midpoint formula 
 
 $$
@@ -15,16 +15,16 @@ $$
 \Large
 E_d = \frac{\dfrac{Q_2 - Q_1}{(Q_2 + Q_1)/2}}{\dfrac{P_2 - P_1}{(P_2 + P_1)/2}}
 $$
-- Interpreting Values: Elastic (>1), inelastic (<1), unit elastic (=1). For income elasticity, positive means a normal good and negative means an inferior good. For cross-price, positive means substitutes and negative means complements
-- Determinants: Availability of Substitutes, necessity vs. luxury, time horizion, and share of the budget.
-- Total Revenue Test: If demand is elastic, a price increase lowers revenue. If it's inelastic, a price increase raises revenue.
-- Applications: Firm pricing decisions and government policy.
+- <font color="#ff0000">Interpreting Values</font>: Elastic (>1), inelastic (<1), unit elastic (=1). For income elasticity, positive means a normal good and negative means an inferior good. For cross-price, positive means substitutes and negative means complements
+- <font color="#ff0000">Determinants</font>: Availability of Substitutes, necessity vs. luxury, time horizion, and share of the budget.
+- <font color="#ff0000">Total Revenue Test</font>: If demand is elastic, a price increase lowers revenue. If it's inelastic, a price increase raises revenue.
+- <font color="#ff0000">Applications</font>: Firm pricing decisions and government policy.
 
 ## 2. Welfare and Market Efficiency
-- Consumer surplus: Willingness to pay minus price paid, the area under demand and above price.
-- Producer Surplus: Price received minus cost, the area above supply and below price.
-- Total Surplus: Consumer surplus plus producer surplus. It is maximized at the market equilibrium, which is why the equilibrium is efficient
--<font color="#9bbb59"> Positive vs. Normative: The module move from "what is the equilibrium?" to "is it the best outcome?"</font>
+- <font color="#ff0000">Consumer surplus</font>: Willingness to pay minus price paid, the area under demand and above price.
+- <font color="#ff0000">Producer Surplus</font>: Price received minus cost, the area above supply and below price.
+- <font color="#ff0000"> Total Surplus</font>: Consumer surplus plus producer surplus. It is maximized at the market equilibrium, which is why the equilibrium is efficient
+- <font color="#9bbb59"> Positive vs. Normative: The module move from "what is the equilibrium?" to "is it the best outcome?"</font>
 
 ## 3. Price Ceilings and Price Floors
 - Ceiling: A maximum price. It is binding only if set below equilibrium, and it creates a shortage.
@@ -200,3 +200,5 @@ You Should Study by...
 2. Draw each graph from scratch (ceiling, floor, tax, subsidy) and shade CS, PS, revenue, and Dead Weight Loss
 3. Practice Computing areas with numbers
 4. For each policy, practice explaining who wins, who loses, and why.
+<iframe src="/img/user/7%20ECON101_11_1.pdf" width="100%" height="900px" title="7 ECON101_11_1.pdf" style="border:1px solid #ccc;"></iframe>
+[[Jule.pdf|PDF too large to embed]]
